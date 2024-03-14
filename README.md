@@ -1,4 +1,4 @@
-# Text_Extraction-and-NLP
+# webscrapping-and-NLP
 The OBjective OF this Project is to extract the data From web and and perform text Analysis To compute Variable .
 
 we perform the following Process on extracted data:
